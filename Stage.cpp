@@ -1,11 +1,11 @@
-//
+﻿//
 //  Stage.cpp
 //  BreakGongDae
 //
 //  Created by 유정민 on 2014. 10. 24..
-//
-//
-
+// 
+//  Leejia
+//2014.10.30
 #include "Stage.h"
 
 Scene* Stage::createScene()
